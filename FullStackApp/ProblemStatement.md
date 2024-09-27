@@ -93,7 +93,7 @@ You are required to develop a mini full-stack application using React for the fr
      - Expected request body (e.g., for login or creating a product).
      - Example responses (success and error cases).
    - **Authentication and Authorization**: Clearly explain how JWT is used to secure routes, how to refresh tokens (if implemented), and how users are authorized for CRUD operations.
-   - **Deployment Instructions**: Provide steps to deploy the backend on platforms like **Heroku**, **AWS**, or **Vercel**.
+   - **Deployment Instructions**: Provide steps to deploy the backend on platforms like **Render**, **Railway**, or **Glitch**.
    - **Bonus Documentation (Optional)**: Document any extra features such as role-based access control (admin, user) or additional middleware for token validation.
 
 ---
